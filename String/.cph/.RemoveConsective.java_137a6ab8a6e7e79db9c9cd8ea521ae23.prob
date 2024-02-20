@@ -1,0 +1,1 @@
+{"name":"Local: RemoveConsective","url":"/home/shahbaz/Desktop/Java_Project/String/RemoveConsective.java","tests":[{"id":1692904536913,"input":"aabccba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/String/RemoveConsective.java","group":"local","local":true}

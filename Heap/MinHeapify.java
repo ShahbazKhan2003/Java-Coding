@@ -1,0 +1,47 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class MinHeapify {
+    public static void main(String[] args) {
+        List<Integer> heap = new ArrayList<>();
+        heap.add(90);
+        heap.add(80);
+        heap.add(70);
+        heap.add(20);
+        heap.add(10);
+        heap.add(50);
+        heap.add(60);
+        System.out.println(heap);
+        buildheap(heap);
+        System.out.println(heap);
+        
+    }
+    public static void buildheap(List<Integer> heap){
+        int firstnonleafNode = ((heap.size()-1)-1)/2;
+        for(int i=firstnonleafNode;i>=0;i--){
+            pushdownMin(heap, i,heap.size()-1);
+        }
+    }
+    public static void pushdownMin(List<Integer> heap, int idx,int n){
+        // int n = heap.size()-1;
+        if(idx==n) return;
+        int left = (2*idx)+1;
+        int right = (2*idx)+2;
+        int small= idx;
+
+        if(left<=n && heap.get(left) < heap.get(small)){
+            small = left;
+        }
+        if(right<=n && heap.get(right) < heap.get(small)){
+            small = right;
+        }
+        if(small==idx) return;
+        swap(heap, idx, small);
+        pushdownMin(heap, small,n);
+    }
+    public static void swap(List<Integer> heap,int l,int r){
+        int temp = heap.get(l);
+        heap.set(l, heap.get(r));
+        heap.set(r, temp);
+    }
+}

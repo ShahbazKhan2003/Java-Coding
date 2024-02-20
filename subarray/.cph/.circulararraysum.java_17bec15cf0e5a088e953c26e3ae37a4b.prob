@@ -1,0 +1,1 @@
+{"name":"Local: circulararraysum","url":"/home/shahbaz/Desktop/Java_Project/subarray/circulararraysum.java","tests":[{"id":1681705745463,"input":"7\n8 -8 9 -9 -10 -11 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/subarray/circulararraysum.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ConstructBT","url":"c:\\Users\\ibrar\\Desktop\\Java_Project\\TREE\\Binary_Tree\\ConstructBT.java","tests":[{"id":1702374767445,"input":"10\n1 2 8 4 5 -1 6 -1 -1 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java_Project\\TREE\\Binary_Tree\\ConstructBT.java","group":"local","local":true}

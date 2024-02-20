@@ -1,0 +1,1 @@
+{"name":"Local: MergeSort","url":"/home/shahbaz/Desktop/Java_Project/Sorting/MergeSort.java","tests":[{"id":1690523637780,"input":"30 40 10 23 14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/Sorting/MergeSort.java","group":"local","local":true}

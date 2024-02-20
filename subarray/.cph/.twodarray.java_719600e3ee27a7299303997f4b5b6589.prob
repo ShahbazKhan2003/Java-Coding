@@ -1,0 +1,1 @@
+{"name":"Local: twodarray","url":"/home/shahbaz/Desktop/Java_Project/subarray/twodarray.java","tests":[{"id":1681720727261,"input":"3 4\n1 3 5 7\n10 11 16 20\n23 30 34 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/subarray/twodarray.java","group":"local","local":true}

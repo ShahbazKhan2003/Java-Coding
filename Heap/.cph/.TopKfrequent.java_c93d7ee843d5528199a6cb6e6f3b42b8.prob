@@ -1,0 +1,1 @@
+{"name":"Local: TopKfrequent","url":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Heap\\TopKfrequent.java","tests":[{"id":1701970537495,"input":"6 2\n1 1 1 2 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Heap\\TopKfrequent.java","group":"local","local":true}

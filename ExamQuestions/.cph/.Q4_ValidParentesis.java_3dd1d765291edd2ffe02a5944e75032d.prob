@@ -1,0 +1,1 @@
+{"name":"Local: Q4_ValidParentesis","url":"c:\\Users\\ibrar\\Desktop\\Java_Project\\ExamQuestions\\Q4_ValidParentesis.java","tests":[{"id":1697661791849,"input":"\"if (x > 0 { y = 2x; }\"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java_Project\\ExamQuestions\\Q4_ValidParentesis.java","group":"local","local":true}

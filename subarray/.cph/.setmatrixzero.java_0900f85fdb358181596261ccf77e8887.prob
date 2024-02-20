@@ -1,0 +1,1 @@
+{"name":"Local: setmatrixzero","url":"/home/shahbaz/Desktop/Java_Project/subarray/setmatrixzero.java","tests":[{"id":1681820052728,"input":"3 3\n1 2 3\n4 0 5\n6 7 8","output":"1 0 3\n0 0 0\n6 0 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/subarray/setmatrixzero.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BalancedParenthesis","url":"/home/shahbaz/Desktop/Java_Project/Stack/Problems/BalancedParenthesis.java","tests":[{"id":1685989258389,"input":"(()()))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/Stack/Problems/BalancedParenthesis.java","group":"local","local":true}

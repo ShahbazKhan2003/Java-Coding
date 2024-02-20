@@ -1,0 +1,1 @@
+{"name":"Local: Lect2","url":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Comparator\\Lect2.java","tests":[{"id":1696750798303,"input":"2 5\n1 4\n8 9 \n-8 5\n2 3\n2 10\n10 4\n4 4\n8 7\n1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Comparator\\Lect2.java","group":"local","local":true}

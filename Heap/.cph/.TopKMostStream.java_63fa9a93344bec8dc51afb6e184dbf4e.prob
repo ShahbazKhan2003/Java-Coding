@@ -1,0 +1,1 @@
+{"name":"Local: TopKMostStream","url":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Heap\\TopKMostStream.java","tests":[{"id":1701937500614,"input":"1\n5 2\n5 1 3 5 2","output":"5 1 5 1 3 5 1 5 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java_Project\\Heap\\TopKMostStream.java","group":"local","local":true}

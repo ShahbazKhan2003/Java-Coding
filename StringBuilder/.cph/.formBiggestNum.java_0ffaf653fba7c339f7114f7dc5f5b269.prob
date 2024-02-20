@@ -1,0 +1,1 @@
+{"name":"Local: formBiggestNum","url":"/home/shahbaz/Desktop/Java_Project/StringBuilder/formBiggestNum.java","tests":[{"id":1684653139505,"input":"1\n4\n54 546 548 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shahbaz/Desktop/Java_Project/StringBuilder/formBiggestNum.java","group":"local","local":true}
