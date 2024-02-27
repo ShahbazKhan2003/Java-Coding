@@ -27,8 +27,8 @@ public class BellmanFordAlgo{
         // if cycle exist then check for N iteration if dist val is reduced then it contain negative cycle
         for(var it:edges){
                int u = it.get(0);
-                int v = it.get(1);
-                int wgt = it.get(2);
+               int v = it.get(1);
+               int wgt = it.get(2);
                 if(dist[u] != (int)1e8 && dist[u] + wgt < dist[v]){
                     System.out.println(-1);
                 }
