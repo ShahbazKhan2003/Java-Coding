@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ClimbMinNOJumps {
     public static void main(String[] args) {
-     Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
         for(int i=0;i<n;i++) arr[i] = sc.nextInt();
@@ -19,6 +19,7 @@ public class ClimbMinNOJumps {
             if(min!=Integer.MAX_VALUE) dp[i] = min + 1;
             
         }
+        
         System.out.println(Arrays.toString(dp));
         System.out.println(dp[0]);
     }

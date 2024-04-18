@@ -9,9 +9,12 @@ public class CountSort {
             max=Math.max(max, i);
         }
         int[] freq = new int[max-min+1];
+        
         for(int i:arr){
             freq[i-min]++;
         }
+
+        // System.out.println(Arrays.toString(freq));
         int k=0;
         for(int j=0;j<freq.length;j++){
             while(freq[j]!=0){

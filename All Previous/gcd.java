@@ -15,6 +15,9 @@ public class gcd {
         int a = 34;
         int b = 60;
         System.out.println(gcdd(a,b));
+
+        int lcm = a*b/divisor;
+        System.out.println(lcm);
     }
     public static int gcdd(int a ,int b){
         if(b==0) return a;

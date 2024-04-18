@@ -1,6 +1,6 @@
 public class Subsequence {
     public static void main(String[] args) {
-        String s= "abc";
+        String s= "abb";
         boolean arr[] = new boolean[s.length()];
         sol(s,arr,"");
     }

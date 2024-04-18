@@ -2,7 +2,7 @@ public class ClearNUpdate {
     public static void main(String[] args) {
 //clear -- uss bit ko 0 krdena
         //1. BitMask 1<<pos
-        //2. 2.AND with 1.NOT
+        //2. AND with 1.NOT
 
         int n =5;
         int pos = 2;

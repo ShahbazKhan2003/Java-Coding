@@ -16,7 +16,7 @@ class DisjointSet{
         parent.set(node, ulp);
         return parent.get(node);
     }
-    public  void unionbyRank(int u , int v){
+    public  void unionbySize(int u , int v){
         int upar_u  = findUpar(u);
         int upar_v  = findUpar(v);
 
@@ -36,17 +36,17 @@ class DisjointSet{
 public class DisjointSetUsingSize{
     public static void main(String[] args) {
         DisjointSet ds = new DisjointSet(7);
-        ds.unionbyRank(1,2);
-        ds.unionbyRank(2,3);
-        ds.unionbyRank(4,5);
-        ds.unionbyRank(6,7);
-        ds.unionbyRank(5,6);
+        ds.unionbySize(1,2);
+        ds.unionbySize(2,3);
+        ds.unionbySize(4,5);
+        ds.unionbySize(6,7);
+        ds.unionbySize(5,6);
         if(ds.findUpar(3) == ds.findUpar(7)){
             System.out.println("Same");
         }
         else System.out.println("Not Same");
         
-        ds.unionbyRank(3, 7);
+        ds.unionbySize(3, 7);
         if(ds.findUpar(3) == ds.findUpar(7)){
             System.out.println("Same");
         }

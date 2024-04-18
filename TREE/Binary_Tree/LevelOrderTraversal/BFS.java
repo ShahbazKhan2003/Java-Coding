@@ -21,7 +21,7 @@ public class BFS{
             if(temp.right != null) q.add(temp.right);
             System.out.print(temp.val+" ");
             q.remove();
-            System.out.println();
+            // System.out.print();
         }
 
       

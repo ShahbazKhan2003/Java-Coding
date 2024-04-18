@@ -17,7 +17,7 @@ public class BFS {
         List<Integer> ans = new ArrayList<>();
         vist[0] = true;
         q.add(0);
-
+        
         while (!q.isEmpty()) {
             int val = q.poll();
             ans.add(val);

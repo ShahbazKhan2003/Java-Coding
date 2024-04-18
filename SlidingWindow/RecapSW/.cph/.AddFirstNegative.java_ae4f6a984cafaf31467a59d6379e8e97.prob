@@ -1,0 +1,1 @@
+{"name":"Local: AddFirstNegative","url":"c:\\Users\\ibrar\\Desktop\\Java-Coding\\SlidingWindow\\RecapSW\\AddFirstNegative.java","tests":[{"id":1710762389399,"input":"","output":"[-8, 0, -6, -6]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java-Coding\\SlidingWindow\\RecapSW\\AddFirstNegative.java","group":"local","local":true}
