@@ -12,9 +12,10 @@ public class Selection {
         {
             // Find the minimum element in unsorted array
             int min = i;
-            for (int j = i+1; j < len; j++)
+            for (int j = i+1; j < len; j++){
                 if (a[j] < a[min])
                     min = j;
+            }
 
             // Swap the found minimum element with the
             // first element in unsorted part of the array

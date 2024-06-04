@@ -4,7 +4,7 @@ import java.util.List;
 public class SubsequenceTar{
     public static void main(String[] args) {
         int[] arr = {1,2,1};
-        int tar = 2;
+        int tar = 3;
         List<Integer> a = new ArrayList<>();
         // AllsubwithsumK(arr,tar,0,0,a);
         // AnyOneSub(arr,tar,0,0,a);

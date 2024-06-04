@@ -14,9 +14,10 @@ public class gcd {
 //Using Recursion
         int a = 34;
         int b = 60;
-        System.out.println(gcdd(a,b));
+        int gcd = gcdd(a, b);
+        System.out.println(gcd);
 
-        int lcm = a*b/divisor;
+        int lcm = a*b/gcd;
         System.out.println(lcm);
     }
     public static int gcdd(int a ,int b){

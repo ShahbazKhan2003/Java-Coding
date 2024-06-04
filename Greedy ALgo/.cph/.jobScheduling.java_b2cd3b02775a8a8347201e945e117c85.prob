@@ -1,0 +1,1 @@
+{"name":"Local: jobScheduling","url":"c:\\Users\\ibrar\\Desktop\\Java-Coding\\Greedy ALgo\\jobScheduling.java","tests":[{"id":1716222852684,"input":"1 4 20 \n2 1 10 \n3 1 40 \n4 1 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ibrar\\Desktop\\Java-Coding\\Greedy ALgo\\jobScheduling.java","group":"local","local":true}

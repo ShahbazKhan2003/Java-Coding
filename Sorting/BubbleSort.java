@@ -12,6 +12,6 @@ public class BubbleSort {
                 }
             }
         }
-        System.err.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 }
